@@ -24,7 +24,12 @@ Here are some ideas to get you started:
 </div>
 
 [![Gmail Badge](https://img.shields.io/badge/hyeonseo.jung29@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hyeonseo.jung29@gmail.com)](mailto:hyeonseo.jung29@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-Hyeonseo%20Jung-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hyeonseo-jung-9354001b6)](https://www.linkedin.com/in/hyeonseo-jung-9354001b6)
+
+<!-- 
+
+[![Linkedin Badge](https://img.shields.io/badge/-Hyeonseo%20Jung-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hyeonseo-jung-9354001b6)](https://www.linkedin.com/in/hyeonseo-jung-9354001b6) 
+
+-->
 
 <!-- Skills -->
 <div align="center">
